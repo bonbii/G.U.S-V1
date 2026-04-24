@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3ccc4dea95a2cda44892f4b9bd4aab1a
+guid: db1a075f5e841da4385e8eb868297e34
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -9,6 +9,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Single Kitchen Counter Left
     second: {fileID: 2100000, guid: 6868dd45b9e9f1145bb8506addfe7d0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Single Kitchen Counter Right
+    second: {fileID: 2100000, guid: 629106c8d1d92df4cb67e4b06bf1c126, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

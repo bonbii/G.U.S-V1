@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: 3ccc4dea95a2cda44892f4b9bd4aab1a
+guid: 460a39aaacbced342ada4ad9e35af403
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drawer
+    second: {fileID: 2100000, guid: 5188da923f57086408299e46d6e73fe3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
